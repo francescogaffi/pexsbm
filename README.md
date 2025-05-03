@@ -2,7 +2,7 @@
 
 This repository is associated with the article [**Partially Exchangeable Stochastic Block Models for (Node-Colored) Multilayer Networks**](https://arxiv.org/abs/2410.10619), and aims at providing detailed materials and codes to implement the general **pEx-SBM** class presented in the article and to reproduce the results presented in Sections 4 and 5, and in the Supplementary Material.
 
-The documentation is organized in two main folders (with multiple subfolders) and one source file described below (a `txt` file with further details on the `R` packages employed is also provided).
+The documentation is organized in two main folders (`SIMULATIONS` and `APPLICATION` with multiple subfolders) and one source file (`pex-sbm.R`) described below (a `packages.txt` file with further details on the `R` packages employed is also provided).
 
 - `pex-sbm.R`. It contains all the **source** `R` **functions** which are required to perform posterior computation, inference and prediction under the **pEx-SBM** class (with a particular focus on the three examples studied in the article: H-DP, H-NSP and H-DP with hyperprior).
 

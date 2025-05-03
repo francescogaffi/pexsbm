@@ -9,13 +9,13 @@ The documentation is organized in two main folders (with multiple subfolders) an
 - `SIMULATIONS`. It contains three subfolders to reproduce the results for the **simulation studies** in Section 4:
 	- `CONSISTENCY`: Contains codes/materials to reproduce the consistency results in Figure 3 of Section 4.
 	- `REPLICATES`: Contains codes/materials to reproduce Table 1, Figure 2 and additional results in Section 4.
-	- `ROBUSTNESS`: Contains three subfolders with codes to reproduce the robustness analyses in Section S4.2 (Supplementary Materials).
+	- `ROBUSTNESS`: Contains three subfolders with codes to reproduce the analyses in Section S4.2 (Supplementary Material).
 	
 - `APPLICATION`. It contains codes and materials to reproduce the **analysis of the *Infinito* network**, presented in Sections 5 of the article. The folder contains also the network studied in the article (see `crime_net.RData`).
 
 - `packages.txt`. It contains detailed information on the version number of the `R` packages employed.
 
-Each folder and subfolder in `SIMULATIONS` and `APPLICATION` contains additional `README` files with details for the implementation.
+Each folder and subfolder in `SIMULATIONS` and `APPLICATION` contains additional `README.txt` files with details for the implementation.
 
 The analyses are performed with a **MacBook Air (M1, 2020), CPU 8–core and 8GB RAM (macOS Monterey, version 12.5)**, using the `R` version 4.2.2
 

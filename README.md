@@ -7,9 +7,9 @@ The documentation is organized in two main folders (`SIMULATIONS` and `APPLICATI
 - `pex-sbm.R`. It contains all the **source** `R` **functions** which are required to perform posterior computation, inference and prediction under the **pEx-SBM** class (with a particular focus on the three examples studied in the article: H-DP, H-NSP and H-DP with hyperprior).
 
 - `SIMULATIONS`. It contains three subfolders to reproduce the results for the **simulation studies** in Section 4:
-	- `CONSISTENCY`: Contains codes/materials to reproduce the consistency results in Figure 3 of Section 4.
-	- `REPLICATES`: Contains codes/materials to reproduce Table 1, Figure 2 and additional results in Section 4.
-	- `ROBUSTNESS`: Contains codes/materials to reproduce the results in Section S4.2 (Supplementary Material).
+	- `CONSISTENCY`: Contains codes/materials to reproduce the consistency results in Figure 3 of Section 4
+	- `REPLICATES`: Contains codes/materials to reproduce Table 1, Figure 2 and additional results in Section 4
+	- `ROBUSTNESS`: Contains codes/materials to reproduce the results in Section S4.2 (Supplementary Material)
 	
 - `APPLICATION`. It contains codes and materials to reproduce the **analysis of the *Infinito* network**, presented in Sections 5 of the article. The folder contains also the network studied in the article (see `crime_net.RData`).
 

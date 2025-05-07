@@ -53,7 +53,7 @@ The repository contains the following files.
 --> 3. Step 2. produces the outputs "output_HDP.RData", "output_HNSP.RData", "output_HDP_hyperprior.RData" and "output_CASC.RData"
 --> 4. Open the file "posterior_analyses_ALL.R" and run it to produce Figure 3 in Section 4
 
-NOTE: each code in step 2. performs the analysis on ten replicated studies in two different scenarios and for seven configurations of network sizes. Hence, although each Gibbs-sampler requires few minutes on a single study, re-running such a sampler over multiple replicated studies increases the time. Hence, since output files are already provided, one can also focus only on steps 1. and 4.
+NOTE: each code in step 2. performs the analysis on ten replicated studies in two different scenarios and for seven configurations of network sizes. Hence, although each Gibbs-sampler requires few minutes on a single study, re-running such a sampler over multiple replicated studies increases the time.
 
 -------------------------------------------------------------
 -------------------------------------------------------------

@@ -44,7 +44,7 @@ The repository contains the following files.
 --> 3. Step 2. produces the output "output_ROBUSTNESS.RData"
 --> 4. Open the file "posterior_analyses_ALL.R" and run it to reproduce the results discussed in Section S4.2 of the Supplementary Material
 
-NOTE: The code in step 2. performs the analysis on ten replicated studies under each of the four methods (H-DP, H-NSP, H-DP with hyperprior and CASC). Hence, although each Gibbs-sampler requires few minutes on a single study, re-running such a sampler over multiple replicated studies increases the time. Hence, since output files are already provided, one can also focus only on steps 1. and 4.
+NOTE: The code in step 2. performs the analysis on ten replicated studies under each of the four methods (H-DP, H-NSP, H-DP with hyperprior and CASC). Hence, although each Gibbs-sampler requires few minutes on a single study, re-running such a sampler over multiple replicated studies increases the time. 
 
 -------------------------------------------------------------
 -------------------------------------------------------------

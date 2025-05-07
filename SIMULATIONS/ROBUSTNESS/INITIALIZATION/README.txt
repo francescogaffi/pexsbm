@@ -48,7 +48,7 @@ The repository contains the following files.
 --> 3. Step 2. produces the outputs "output_HDP.RData", "output_HNSP.RData" and "output_HDP_hyperprior.RData"
 --> 4. Open the file "posterior_analyses_ALL.R" and run it to obtain column "initialization" in Table S.1 of the Supplementary Material
 
-NOTE: each code in step 2. performs the analysis on ten replicated studies in two different scenarios. Hence, although each Gibbs-sampler requires few minutes on a single study, re-running such a sampler over multiple replicated studies increases the time. Hence, since output files are already provided, one can also focus only on steps 1. and 4.
+NOTE: each code in step 2. performs the analysis on ten replicated studies in two different scenarios. Hence, although each Gibbs-sampler requires few minutes on a single study, re-running such a sampler over multiple replicated studies increases the time.
 
 -------------------------------------------------------------
 -------------------------------------------------------------

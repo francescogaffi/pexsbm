@@ -65,7 +65,7 @@ The repository contains the following files.
 --> 3. Step 2. produces the outputs "output_HDP.RData", "output_HNSP.RData", "output_HDP_hyperprior.RData", "output_ESBM.RData" and "output_COMPETITORS.RData"
 --> 4. Open the file "posterior_analyses_ALL.R" and run it to produce the results in Table 1, Figure 2 and additional analyses reported in Section 4
 
-NOTE: each code in step 2. performs the analysis on ten replicated studies in two different scenarios. Hence, although each Gibbs-sampler requires few minutes on a single study, re-running such a sampler over multiple replicated studies increases the time. Hence, since output files are already provided, one can also focus only on steps 1. and 4.
+NOTE: each code in step 2. performs the analysis on ten replicated studies in two different scenarios. Hence, although each Gibbs-sampler requires few minutes on a single study, re-running such a sampler over multiple replicated studies increases the time.
 
 -------------------------------------------------------------
 -------------------------------------------------------------

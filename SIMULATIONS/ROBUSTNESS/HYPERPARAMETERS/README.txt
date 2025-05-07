@@ -55,7 +55,7 @@ NOTE: Results for ESBM are provided for completeness, but are not reported in th
 --> 3. Step 2. produces the outputs "output_HDP.RData", "output_HNSP.RData", "output_HDP_hyperprior.RData" and "output_ESBM.RData"
 --> 4. Open the file "posterior_analyses_ALL.R" and run it to obtain column "hyperparameters" in Table S.1 of the Supplementary Material
 
-NOTE 1: each code in step 2. performs the analysis on ten replicated studies in two different scenarios. Hence, although each Gibbs-sampler requires few minutes on a single study, re-running such a sampler over multiple replicated studies increases the time. Hence, since output files are already provided, one can also focus only on steps 1. and 4.
+NOTE 1: each code in step 2. performs the analysis on ten replicated studies in two different scenarios. Hence, although each Gibbs-sampler requires few minutes on a single study, re-running such a sampler over multiple replicated studies increases the time.
 
 NOTE 2: Results for ESBM are provided for completeness, but are not reported in the article, since the focus is to assess robustness of the proposed pEx-SBM.
 -------------------------------------------------------------

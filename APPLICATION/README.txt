@@ -24,7 +24,7 @@ The repository contains the following files.
 ### DATA #################
 ##########################
 
-• "crime_net.RData". It contains the criminal network data analyzed in the article (adjacency matrix, node attributes, and additional useful quantities for graphical representation of the network). The pre-processed data are obtained from the GitHub repository "https://github.com/danieledurante/ESBM". The original data are available at "https://sites.google.com/site/ucinetsoftware/datasets/covert-networks/ndrangheta-mafia-2"
+• "crime_net.RData". It contains the criminal network data analyzed in the article (adjacency matrix, node attributes, and additional useful quantities for graphical representation of the network). The original data are available at "https://sites.google.com/site/ucinetsoftware/datasets/covert-networks/ndrangheta-mafia-2". See also the GitHub repository "https://github.com/danieledurante/ESBM" for information on data pre-processing.
 
 ##########################
 ### STEP-BY-STEP CODE ####
